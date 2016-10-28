@@ -4,9 +4,9 @@
   "description": "ng-fx",
   "main": "dist/ng-fx.js",
   "dependencies": {
-    "angular": "^1.4.3",
-    "angular-animate": "^1.4.3",
-    "lodash": "^3.10.0"
+    "angular": "*",
+    "angular-animate": "*",
+    "lodash": "*"
   },
   "devDependencies": {
     "angular-aria": "^1.4.7",
